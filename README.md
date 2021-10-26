@@ -5,7 +5,6 @@ This repository has methods to investigate criticality in Complex networks. The 
 [![codecov](https://codecov.io/gh/sarannns/complex/branch/main/graph/badge.svg?token=IQCBIY5QTK)](https://codecov.io/gh/sarannns/complex)
 [![PyPI version](https://badge.fury.io/py/complexnetwork.svg)](https://badge.fury.io/py/complexnetwork)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-![PyPI - Downloads](https://img.shields.io/pypi/dw/complexnetwork.svg)
 [![License](https://img.shields.io/badge/License-MIT%20-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation
